@@ -1,0 +1,24 @@
+{
+  "name": "react-array",
+  "version": "0.1.0",
+  "description": "A react library which triggers a rerender when part of the array is changed",
+  "main": "js/use-array.js",
+  "types": "js/use-array.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "react",
+    "typescript",
+    "hooks"
+  ],
+  "author": "Niklas Krassnig",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.3"
+  }
+}
